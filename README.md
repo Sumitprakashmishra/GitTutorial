@@ -1,2 +1,2 @@
 # GitTutorial
-GitTutorial only 
+GitTutorial purpose only 
